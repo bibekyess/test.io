@@ -1,0 +1,92 @@
+.header {
+    width: width;
+    height: 100px;
+    background: lightgrey;
+    font-size: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center ;
+    margin-top: 2%
+}
+
+
+.class-header{
+    background-color: dodgerblue;
+    border: 3px;
+    
+}
+
+#kaist-image {
+    width: 100%
+}
+.big-container{
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    margin: 2%;
+    border-color: black;  
+    border-width: .5em;  
+    border-style: double;          }
+.inner-container{
+    padding-right: 4%;
+    padding-left: 4%;
+}
+.inner-container h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    font-style: bold;
+}
+.inner-container p {
+    font-family: normal;
+    font-size: 20px;
+    font-style: bold;          
+}
+.inner-container ui {
+    font-family: normal;
+    font-size: 18px;
+    font-style: bold;          
+}
+.table-content {
+    width: 100%
+}
+
+
+/* unvisited link */
+a:link {
+    color: blue;
+  }
+  
+/* visited link */
+a:visited {
+    color: blue;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: green;
+} 
+
+.table, td, th {
+    padding: 10px;
+    border: 2px solid white;
+    border-radius: 10px;
+    text-align: center;
+    }
+      
+.footer {
+    width: 100%;
+    height: 100px;
+    background: lightgrey;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center 
+};
